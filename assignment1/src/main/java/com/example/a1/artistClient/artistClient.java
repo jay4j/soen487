@@ -154,7 +154,7 @@ public class artistClient implements ArtistRest {
         return false;
     }
 
-    public static void main(String[] args)
+   /* public static void main(String[] args)
     {
         Artist a = new Artist("gg bb","kk","bb","ssrr esdasd");
         Artist b = new Artist("ccbb","kk","bb","sswawesdasd");
@@ -166,5 +166,5 @@ public class artistClient implements ArtistRest {
         t.getArtist("ccbb");
         t.updateArtist(c);
         t.getArtist("ccbb");
-    }
+    }*/
 }
